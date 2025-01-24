@@ -1,0 +1,11 @@
+**/.vscode/
+**/**/.vscode/
+**/.vscode/
+**/**/.vscode/
+**/.vscode/
+**/*.o
+**/__pycache__/
+**/.pth
+**/data/
+**/*.pth
+**/*.DS_Store
